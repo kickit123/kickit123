@@ -7,4 +7,3 @@
 - 🌱 I’m currently learning Spring.
 - 👯 I’m looking to collaborate on any Java or Python projects!
 - 🤔 I’m looking for help with expanding my scope of knowledge.
-- 📫 How to reach me: My Discord username is kickit123#9962.
