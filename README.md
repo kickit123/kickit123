@@ -22,11 +22,3 @@ I'm a student interested in computer science. I like to mess around with new lib
 <a href="https://github.com/kickit123/kickit123">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kickit123&show_icons=true&line_height=27&count_private=true&theme=nord" alt="kickit123's GitHub Stats" />
 </a>
-
-<a href="https://github.com/kickit123/ShuntingYardAlgorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kickit123&repo=ShuntingYardAlgorithm&theme=nord" />
-</a> 
-
-<a href="https://github.com/kickit123/AvocadoBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kickit123&repo=AvocadoBot&theme=nord" />
-</a>
